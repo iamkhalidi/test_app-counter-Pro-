@@ -23,7 +23,7 @@ class HomeView extends GetView<HomeController> {
                     crossAxisAlignment: CrossAxisAlignment.start,
                     children: [
                       Text(
-                        'COUNTER',
+                        'تم التطوير بواسطة خالد',
                         style: TextStyle(
                           fontFamily: 'monospace',
                           fontSize: 11,
